@@ -1,0 +1,49 @@
+{
+    "news": [
+        {
+            "company": "CNBC",
+            "news_list": [
+                {
+                    "title": "Berkshire Hathaway employee wins $1 million in Warren Buffett's March Madness bracket challenge - CNBC",
+                    "description": "The 94-year-old Oracle of Omaha was finally able to give out the big prize after relaxing the rules multiple times since the competition's inception in 2016.",
+                    "image": "https://image.cnbcfm.com/api/v1/image/108120534-1742847129542-gettyimages-2206093080-gh407321.jpeg?v=1742847306&w=1920&h=1080"
+                },
+                {
+                    "title": "How the rich use insurance to invest in private credit without steep tax bills - CNBC",
+                    "description": "Private credit is a hot asset class but comes with hefty income taxes. Top earners can save on tax with specific insurance policies known as PPVA and PPLI.",
+                    "image": "https://image.cnbcfm.com/api/v1/image/108118621-1742415514599-gettyimages-2116635858-img_5521-edit.jpeg?v=1742825641&w=1920&h=1080"
+                }
+            ]
+        },
+        {
+            "company": "Business Insider.",
+            "news_list": [
+                {
+                    "title": "Tesla has flirted with disaster before. This time feels different. - Business Insider",
+                    "description": "Many assumed Elon Musk's proximity to Donald Trump would be a net positive. Insiders said Musk's political entanglements represent an identity crisis.",
+                    "image": "https://i.insider.com/67dc7fd569253ccddf99e3ac?width=1200&format=jpeg"
+                },
+                {
+                    "title": "The tech industry is souring on Trump - Business Insider",
+                    "description": "Even conservative executives are fed up with tariffs, DOGE, and \"crypto bro schemes\"",
+                    "image": "https://i.insider.com/67d8759ab8b41a9673fae0bc?width=1200&format=jpeg"
+                }
+            ]
+        },
+        {
+            "company": "Financial Times",
+            "news_list": [
+                {
+                    "title": "Chinese AI start-ups overhaul business models after DeepSeek’s success - Financial Times",
+                    "description": "The country’s top groups are re-evaluating their strategies as they race to remain competitive",
+                    "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F359a9be6-6e0e-4da2-bee0-96259420a482.jpg?source=next-barrier-page"
+                },
+                {
+                    "title": "The FBI launched a task force to investigate Tesla attacks - The Verge",
+                    "description": "The FBI announced a task force to investigate attacks targeting Tesla.",
+                    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/gettyimages-2205777093.jpg?quality=90&strip=all&crop=0%2C10.14263417715%2C100%2C79.714731645701&w=1200"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+name: stock_market
+description: "A new Flutter project."
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  web_socket_channel: ^3.0.2
+  flutter_bloc: ^9.1.0
+  equatable: ^2.0.7
+  flutter_screenutil: ^5.9.3
+  google_fonts: ^6.2.1
+  adaptive_theme: ^3.7.0
+  
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^5.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/
+    - assets/fonts/
+  fonts:
+    - family: PlayfairDisplay
+      fonts:
+        - asset: assets/fonts/PlayfairDisplay.ttf
+        
+  
+    - family: Mulish-VariableFont_wght
+      fonts:
+     
+        
+        - asset: assets/fonts/Mulish-VariableFont_wght.ttf
+        
+        
+        
+
+  
